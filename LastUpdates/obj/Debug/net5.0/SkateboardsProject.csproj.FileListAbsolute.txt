@@ -1,0 +1,260 @@
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.exe
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.deps.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.dev.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Humanizer.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.AssemblyInfo.cs
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.csproj.CopyComplete
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.genruntimeconfig.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.exe
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.deps.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.dev.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\SkateboardsProject.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Humanizer.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.AssemblyInfo.cs
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.csproj.CopyComplete
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProject\obj\Debug\net5.0\SkateboardsProject.genruntimeconfig.cache
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.AssemblyInfo.cs
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.pdb
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\SkateboardsProject.exe
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\SkateboardsProject.deps.json
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.json
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.dev.json
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\SkateboardsProject.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\SkateboardsProject.pdb
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Humanizer.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.csproj.CopyComplete
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\refint\SkateboardsProject.dll
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\SkateboardsProject.genruntimeconfig.cache
+C:\Eyub 11 klas\school\School-main\SkateboardsProjectNew\obj\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\SkateboardsProject.exe
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\SkateboardsProject.deps.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\SkateboardsProject.runtimeconfig.dev.json
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\SkateboardsProject.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Humanizer.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.csproj.AssemblyReference.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.AssemblyInfoInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.AssemblyInfo.cs
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.csproj.CoreCompileInputs.cache
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.csproj.CopyComplete
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\ref\SkateboardsProject.dll
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.pdb
+D:\Users\U607\Documents\11a_1grupa_RS\SkateboardsProjectNewAlmostReady\obj\Debug\net5.0\SkateboardsProject.genruntimeconfig.cache
