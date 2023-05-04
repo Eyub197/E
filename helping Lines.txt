@@ -1,0 +1,6 @@
+  Console.WriteLine(new string('-', 40));
+            Console.WriteLine(string.Format("{0," + ((40 + "BEARING MENU".Length) / 2).ToString() + "}", "BEARING MENU"));
+            Console.WriteLine(new string('-', 40));
+
+
+ Console.WriteLine("YOU CHOOSED TO LISTALL / IF YOU WANT TO GO BACK CLICK 6");
