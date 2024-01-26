@@ -1,0 +1,14 @@
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.exe
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.deps.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.runtimeconfig.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.runtimeconfig.dev.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\bin\Debug\netcoreapp3.1\05. Average Number.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.AssemblyInfo.cs
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\05. Average Number\obj\Debug\netcoreapp3.1\05. Average Number.genruntimeconfig.cache
