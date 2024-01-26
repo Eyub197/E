@@ -1,0 +1,14 @@
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.exe
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.deps.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.runtimeconfig.dev.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\bin\Debug\netcoreapp3.1\05. Pets.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.AssemblyInfo.cs
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\05. Pets\obj\Debug\netcoreapp3.1\05. Pets.genruntimeconfig.cache

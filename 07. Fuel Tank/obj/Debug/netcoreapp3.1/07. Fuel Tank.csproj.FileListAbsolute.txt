@@ -1,0 +1,14 @@
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.exe
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.deps.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.runtimeconfig.dev.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\bin\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.AssemblyInfo.cs
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\07. Fuel Tank\obj\Debug\netcoreapp3.1\07. Fuel Tank.genruntimeconfig.cache

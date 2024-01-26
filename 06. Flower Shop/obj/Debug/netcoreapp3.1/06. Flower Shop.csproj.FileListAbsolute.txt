@@ -1,0 +1,14 @@
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.exe
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.deps.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.runtimeconfig.dev.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\bin\Debug\netcoreapp3.1\06. Flower Shop.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.AssemblyInfo.cs
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\if Conditional Statementd - More Exercise\06. Flower Shop\obj\Debug\netcoreapp3.1\06. Flower Shop.genruntimeconfig.cache
