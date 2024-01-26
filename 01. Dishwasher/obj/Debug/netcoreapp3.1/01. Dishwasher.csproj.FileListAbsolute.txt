@@ -1,0 +1,14 @@
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.exe
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.deps.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.runtimeconfig.dev.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\bin\Debug\netcoreapp3.1\01. Dishwasher.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.AssemblyInfo.cs
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\01. Dishwasher\obj\Debug\netcoreapp3.1\01. Dishwasher.genruntimeconfig.cache

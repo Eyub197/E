@@ -1,0 +1,14 @@
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.exe
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.deps.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.runtimeconfig.dev.json
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\bin\Debug\netcoreapp3.1\02. Report System.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.AssemblyReference.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfoInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.AssemblyInfo.cs
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.csproj.CoreCompileInputs.cache
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.dll
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.pdb
+C:\Eyub 11 klas\SoftUni\Programing basics C#\PB more exercise\While-Loop - More Exercises\02. Report System\obj\Debug\netcoreapp3.1\02. Report System.genruntimeconfig.cache
